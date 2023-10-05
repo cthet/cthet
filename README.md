@@ -3,7 +3,7 @@
 SKILLS
 
 **Backend**:\
-Java Core / Java 17 / Java EE, Spring (Boot, MVC, WebFlux, Data, Security, Cloud) / Hibernate / SQL : MySQL, PostgreSQL / JUnit / Mockito / AWS (EC2, S3, RDS)
+Java Core / Java 17 / Java EE, Spring (Boot, MVC, WebFlux, Data JPA, Batch, Cloud, Security) / Hibernate / SQL : MySQL, PostgreSQL / JUnit / Mockito / AWS (EC2, S3, RDS)
 
 **Frontend**:\
 HTML / CSS / Javascript / Typescript / Angular / Angular Material / Jest / Bootstrap
